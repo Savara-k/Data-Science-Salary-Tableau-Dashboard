@@ -1,4 +1,3 @@
-# Data-Science-Salary-Tableau-Dashboard
 # Data Science Salary Intelligence Dashboard
 
 > An interactive Tableau dashboard exploring data science compensation, remote work trends, and US cost of living — built to answer the question every tech worker is asking: *where should I work, and can I actually afford to live there?*
